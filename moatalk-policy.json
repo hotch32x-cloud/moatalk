@@ -2,9 +2,10 @@
   "policy": {
     "v": 1,
     "mode": "free",
-    "issued": "2026-08-22T07:02:15.672Z",
+    "owner": "sukone327",
+    "issued": "2026-08-22T14:51:23.135Z",
     "notice": "",
     "revoked": []
   },
-  "sig": "pc2tliAKcR0lnkzpV/DENk5xa+ESJBMArYjZU9WI+/zLCYaRKjxp4u5kL2RQZ6CmkC2B9r6lqUNUUxGkePBzDA=="
+  "sig": "trRrTV1zY3Rb3PIp4Qv0WuVSmUKhBggz6YPVeI9PuyWRMRQcTYQ2pdp2XC9gfYSUX7fBUk3aZyw0j0hUF4KqDg=="
 }
