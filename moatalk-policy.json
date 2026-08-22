@@ -2,12 +2,9 @@
   "policy": {
     "v": 1,
     "mode": "free",
-    "issued": "2026-08-22T06:58:01.394Z",
+    "issued": "2026-08-22T07:02:15.672Z",
     "notice": "",
-    "revoked": [
-      "9a9848a3",
-      "c8bc0e1f"
-    ]
+    "revoked": []
   },
-  "sig": "tyXi6fgssc+bg8tYeaWWzWx0yJYuoomIj2ffj8r+OidX+5QFSwdmXhD8K3ToCYjn5EzhJJhj0TDQhtrl6i6pBw=="
+  "sig": "pc2tliAKcR0lnkzpV/DENk5xa+ESJBMArYjZU9WI+/zLCYaRKjxp4u5kL2RQZ6CmkC2B9r6lqUNUUxGkePBzDA=="
 }
