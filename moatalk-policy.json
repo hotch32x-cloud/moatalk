@@ -1,13 +1,13 @@
 {
   "policy": {
     "v": 1,
-    "mode": "off",
-    "issued": "2026-08-22T06:53:13.666Z",
-    "notice": "잠시 점검 중입니다. 곧 다시 열겠습니다.",
+    "mode": "free",
+    "issued": "2026-08-22T06:58:01.394Z",
+    "notice": "",
     "revoked": [
       "9a9848a3",
       "c8bc0e1f"
     ]
   },
-  "sig": "nGO6KMtI9pCdxmLpKlxfZvK0/+hp1qk6wvOLYlMsT8tdz6xHDkZvAZPpak2cRrFpSCttmyG8M6EAzFjQnB1hDg=="
+  "sig": "tyXi6fgssc+bg8tYeaWWzWx0yJYuoomIj2ffj8r+OidX+5QFSwdmXhD8K3ToCYjn5EzhJJhj0TDQhtrl6i6pBw=="
 }
