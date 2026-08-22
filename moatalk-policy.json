@@ -1,0 +1,13 @@
+{
+  "policy": {
+    "v": 1,
+    "mode": "free",
+    "issued": "2026-08-22T06:15:16.613Z",
+    "notice": "",
+    "revoked": [
+      "9a9848a3",
+      "c8bc0e1f"
+    ]
+  },
+  "sig": "P7pPxzlSuo9GqwzG2nbxx25s3KxGP3ypStkb7OOEWCuLbowHdaaWBOLr92TtR2r5fUVsTFx1urHuV3h6U+ssBw=="
+}
